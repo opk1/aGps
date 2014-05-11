@@ -1,6 +1,7 @@
 aGps
 ====
 Android location app
+======================
 
 Running the Application:
     1. A port number must be entered before selecting 'client' or 'server'
